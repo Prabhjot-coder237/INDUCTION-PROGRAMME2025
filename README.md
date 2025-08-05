@@ -1,4 +1,14 @@
 # INDUCTION-PROGRAMME2025
+
+# Presenting Myself
+
+**Name**: Prabhjot Kaur
+**Age**:  18 years
+**Branch**: Information technology
+**Residence**: Ludhiana
+
+##### Profile
+ ![This is an alt text.]("\Desktop\profile pic.jpg")
 # day1
 *My first day in Gndec ludhiana was with Cse  IT  students.
 Firstly we all gathered in Gurudwara and take blessings of waheguru,kirtan was recite by kirtani jatha. After that we went to hostel 2 for refreshment as per schedule prescribed by teacher then after refreshment we went to theater for **inauguration ceremony** .The ceremony was started approximately 11:15 am by reciting **Mool Mantar** 
@@ -47,6 +57,10 @@ following this the induction programme was enlightened by expert talks:-
   *Also,we have an interactive session with our seniors reflecting our English and Maths Profeciency test results.*
   
    *Who inspires us to work hard and live a happy life.*
+
+  
+  **At end,GitHub Introduction by seniors**
+*Our day ended in the auditorium with a session led by seniors. He introduced us to GitHub, a vital tool for version control and collaboration. With his guidance, we set up our first repository, marking an important step in our journey as budding developers. This hands-on introduction was both practical and exciting, providing us with a foundational skill that will be crucial throughout our academic and professional careers.*
 
   ### THANK YOU!!
 

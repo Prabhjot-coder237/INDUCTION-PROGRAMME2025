@@ -15,6 +15,10 @@
 
 
 
+![image](https://github.com/Prabhjot-coder237/INDUCTION-PROGRAMME2025/blob/main/profile%20pic.jpg?raw=true)
+
+
+
 **Class 12th details**
 | Subjects         |Marks obtained|total marks|
 |------------------|--------------|-----------|

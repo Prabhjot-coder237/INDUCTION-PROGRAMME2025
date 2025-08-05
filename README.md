@@ -3,12 +3,33 @@
 # Presenting Myself
 
 **Name**: Prabhjot Kaur
+
+
 **Age**:  18 years
+
+
 **Branch**: Information technology
+
+
 **Residence**: Ludhiana
 
-##### Profile
- ![This is an alt text.]("\Desktop\profile pic.jpg")
+
+
+**Class 12th details**
+| Subjects         |Marks obtained|total marks|
+|------------------|--------------|-----------|
+|ENGLISH           |82            |100        |
+|MATHS             | 61           |100        |
+|PHYSICS           | 64           |100        |
+|CHEMISTRY         | 86           |100        |
+|PHYSICAL EDUCATION| 90           |100        |
+
+
+**LINKED IN PROFILE**
+
+
+
+ **EMAIL**: Prb0035@gmail.com
 # day1
 *My first day in Gndec ludhiana was with Cse  IT  students.
 Firstly we all gathered in Gurudwara and take blessings of waheguru,kirtan was recite by kirtani jatha. After that we went to hostel 2 for refreshment as per schedule prescribed by teacher then after refreshment we went to theater for **inauguration ceremony** .The ceremony was started approximately 11:15 am by reciting **Mool Mantar** 

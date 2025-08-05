@@ -30,6 +30,7 @@
 
 
 **LINKED IN PROFILE**
+[view linkedin profile](https://www.linkedin.com/in/prabhjot-kaur-971237377)
 
 
 

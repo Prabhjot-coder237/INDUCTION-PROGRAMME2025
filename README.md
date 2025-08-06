@@ -16,7 +16,7 @@
 
 
 ![image](https://github.com/Prabhjot-coder237/INDUCTION-PROGRAMME2025/blob/main/profile%20pic.jpg?raw=true)
-
+![prabh](IMG-20250806-WA0011.jpg )
 
 
 **Class 12th details**

@@ -111,3 +111,27 @@ following this the induction programme was enlightened by expert talks:-
  *Our third or last lecture was of **BEEE** by **prof.Sukhpal Singh** in this lecture he gives brief introduction about syllabus , marks creteria and attendence creteria of college .*
 
  This is all about today.**THANK YOU!!**
+
+
+
+ # Day 6
+ *This is my quite interestig day.As today we started coding peer to peer classes arranged by our seniors for helping us.
+
+ Also this is our first lecture that is of **p2p** in this they gives us brief information about cpp language and also helps us to make code of table of 2 and 5.
+
+ then our second lecture was of basic **electrical and electronics engineering** by **prof.Sukhpal Singh** who help us to recape ous previous 12th and 11th class concept like kirchoffs rule,ohms law,inductance,conductance,resistance. And gives brief info about nodal rule.*
+
+
+## break
+ 
+ ### In Auditorium:-
+
+ we got an offer to meet different personalities :
+
+ * S.Maheshinder Singh Grewal (Member of nankana trust)
+   inspiires us with his words and shares his experience in gndec college.
+
+   * S. Lakhvir singh Khanna (head of cml)
+     gives brief intro about cml and nptel.Helps usto join new courses along with our degree to do minors and honors degree.
+
+     #### This is all about today , Lets see what's happening tommorow. **THANK YOU!!**

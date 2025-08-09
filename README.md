@@ -135,3 +135,38 @@ following this the induction programme was enlightened by expert talks:-
      gives brief intro about cml and nptel.Helps usto join new courses along with our degree to do minors and honors degree.
 
      #### This is all about today , Lets see what's happening tommorow. **THANK YOU!!**
+
+
+     # Day 7
+
+     *Today a week is completed for our induction programme.As everyday,our day started by reciting Mool Mantar 5 times .A student of CSE first year recited it.*
+   Now its time for orientation programme.In auditorium,
+
+   * Dr. Amit Kamra (Incharge DMC {digital marketing club}),which is basically based on controlling social media page of instagram,facebook,linkedin,youtube,network site.
+     *Under this club students work on canva,video editing,content writting,photography,etc.
+   * Dr.Parminder Singh (Dean- Student welfare)This sir tells us about all societies,clubs ,also about NCC NSS present in college  like-
+          * ISTE
+          * cultural committee
+          * English club
+          * Fmcrs
+          * Digital marketing club
+          * isf
+          * sports
+          * causmic clib
+          * ecell
+          * cml
+          * computonics
+
+     * Dr. Randhir Singh (Conduct of examination) This sir tells us about code of conduct of examination in college as it is antonomous college.So the college has its own code of conduct
+
+
+        #### Break
+
+       *After break, We have peer to peer  classes by our proffessors ,
+
+       first lecture was of English by NIsha mam.
+
+       second lecture was of 
+          
+
+

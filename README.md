@@ -166,7 +166,12 @@ following this the induction programme was enlightened by expert talks:-
 
        first lecture was of English by NIsha mam.
 
-       second lecture was of 
+       second lecture was of Chemsitry by Rajveer mam*
+
+
+
+
+# Day 8
           
 
 

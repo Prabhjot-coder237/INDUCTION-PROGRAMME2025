@@ -173,5 +173,17 @@ following this the induction programme was enlightened by expert talks:-
 
 # Day 8
           
+#### Today was last day of induction programme . 
+*On this day we have our lectures as well as our p2p interections with our professor's*
 
+*In Morning 🌄 we had our first lecture of Mathematics in which mam gives us overview of first unit that is of differential equations*
+
+then ##### break
+
+*After break we have our healthy peer 2 peer interactions with prof. Jaswant Singh (he gave us information about interview placement creteria)
+
+## That's all about our induction programme.
+
+
+#### Thank you🙂🙂
 
